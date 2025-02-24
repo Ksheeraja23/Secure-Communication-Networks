@@ -33,10 +33,10 @@ The project contains the following key componenets:
 - Measures taken to ensure high availability and fault tolerance within the network.
 - Implementation of redundant infrastructure and load balancing to minimize downtime.
 
-# Technologies used
-## 1. Cisco Packet Tracer
-## 2. Networking hardware (Routers, Switches, Firewalls)
-## 3. Protocols (TCP/IP, HTTP, FTP, SMTP, etc.)
+## Technologies used
+ 1. Cisco Packet Tracer
+ 2. Networking hardware (Routers, Switches, Firewalls)
+ 3. Protocols (TCP/IP, HTTP, FTP, SMTP, etc.)
 
 ## Conclusion
 This portfolio serves as a comprehensive demonstration of the knowledge and skills acquired in secure communication networks, showcasing the ability to design, implement, and secure a network infrastructure for a corporate environment.
